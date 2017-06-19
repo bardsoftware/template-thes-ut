@@ -1,6 +1,6 @@
 A LATEX Template for the University of Tennessee
 
-It is based on the 2010 thesis specications but can be easily altered as the
+It is based on the 2010 thesis specifications but can be easily altered as the
 guidelines are changed.
 
 This template is distributed with ABSOLUTELY NO WARRANTY. It serves
